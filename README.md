@@ -1,1 +1,95 @@
-# SOFT_TECH_KIRAN-VER-2.0-
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+
+    <title>SOFT TECH KIRAN</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="../IMAGES/fav.ico">
+    <link href="https://fonts.googleapis.com/css2?family=Merienda:wght@700&family=Orbitron:wght@600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Faster+One&family=Merienda:wght@700&family=Orbitron:wght@600&family=Saira+Stencil+One&family=Vast+Shadow&display=swap" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@1,400;1,500&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="top-container">
+        <img id="softimg" src="../IMAGES/circle-cropped.png" alt="">
+        <h1>SOFT TECH KIRAN</h1>
+        <a id="video" href="https://saikiran-patro.github.io/SOFT_TECH_KIRAN/"target="_blank">All videos</a>
+        <a id="technews" href="tech update.html">Tech Updates</a>
+        <a id="trend" href="https://www.youtube.com/channel/UCPv9XuCE1Cho5QDYBcqWphA/featured"target="_blank">YouTube</a>
+        <a id="About" href="https://ul8lzizfmwjfy8xajdjtja-on.drv.tw/www.myweb2.com/temp.html" target="_blank">About</a>
+
+   </div>
+    <div class="middile-container">
+      <h3 id="wel" >WELCOME</h3>
+
+  <h4>HUMAN FALL DETECTION SYSTEM(ioT)</h4>
+    <img src="../IMAGES/2020-05-21_07-54-38.jpg" alt="" id="humanfall">
+     <p>
+
+
+  Hey guys!!
+          In this video, I demonstrated the most innovative feature of Apple watch which is human Fall Detection.Apple watch is known as a life saver smart watch for people.I have built a prototype of  fall Detection system.
+          </p>
+
+  <a href="https://www.youtube.com/watch?v=schAiYABB6k" target="_blank" id="at">CLICK HERE</a>
+
+
+  <br/>
+     <h4>PYTHON INSTALLATION AND ITS APPLICATIONS</h4>
+        <img src="../IMAGES/2019-08-24_23-29-47.jpg">
+        <p>
+        In this video i explained about the most popular language buzzing in the field of technology.Python is the top most paid programming language and has plenty of applications build on it.one of the important application is machine learning and artificial intelligence.you can also get into web devlopment.
+        </p>
+
+   <a href="https://www.youtube.com/watch?v=schAiYABB6k" target="_blank" id="at">CLICK HERE</a>
+   <br/>
+   <br/>
+    <br/>
+
+
+
+
+   <h4>IMAGE PROCESSING ,48MP VS 12 MP GCAM</h4>
+   <img src="../IMAGES/2020-01-12_04-01-16.jpg">
+    <p>
+          In this video, I talked about Image processing which one of the important factors for taking better pictures. But nowadays people are just blindly going with those devices having a large image sensor...
+          In this video, I compared some samples which were taken from Asus(gcam) and redmi note 7 pro 48mp.
+        </p>
+
+  <a href="https://www.youtube.com/watch?v=hfe65wV-Lps&t=312s" target="_blank" id="at">CLICK HERE</a>
+   <h4>CRO AND ITS APPLICATIONS</h4>
+     <img src="../IMAGES/1567312485211.jpg">
+          <p>
+            In this video I explained about CRO an electronic equipment it's applications and also explained about basic operation that you need to keep in mind before performing experiment..
+          </p>
+
+   <a href="https://www.youtube.com/watch?v=aPOq7uO5_FE" target="_blank" id="at">CLICK HERE</a>
+          <br/>
+          <br/>
+          <br/>
+          <h4>ALL ABOUT USB KILLERS</h4>
+          <img src="../IMAGES/2019-08-25_01-34-00.jpg">
+          <p>
+            In this video, I explained about USB killer. This video is only for educational purposes.It is not available in Flipkart or Amazon since it is illegal. This USB killer has many versions you can purchase it from other websites you can search it on the internet.
+          </p>
+
+  <a href="https://www.youtube.com/watch?v=l-O0aOMhzsQ" target="_blank" id="at">CLICK HERE</a>
+    <br/>
+     <br/>
+     <br/>
+          <hr />
+   <div class="bottom-container">
+          <center>
+            <p id="copy">© 2019 soft tech kiran.</p>
+          </center>
+        </div>
+
+
+
+ </div>
+
+
+  </body>
+</html>
