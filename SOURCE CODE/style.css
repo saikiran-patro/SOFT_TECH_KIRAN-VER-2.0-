@@ -1,0 +1,192 @@
+.top-container
+{
+  width:100%;
+  height: 180px;
+  background-color: #162447;
+  margin: 0;
+  position: relative;
+
+}
+body{
+  margin: 0;
+  background-color:#f0efef;
+}
+h1
+{
+  margin: 0 auto;
+  margin-bottom: 3px;
+  padding-top: 50px;
+text-align: center;
+  font-size: 3rem;
+  color: #dae1e7;
+  padding-right: 120px;
+  font-family: 'Saira Stencil One', cursive;
+  font-weight: normal;
+
+
+
+}
+#softimg
+{
+  padding-top: 70px;
+  width: 200px;
+  height: 200px;
+
+ float: left;
+}
+#wel{
+  text-align: center;
+  padding-right: 85px;
+  padding-top: 30px;
+  font-size: 35px;
+  font-family: 'Merienda', cursive;
+  animation-name: h3;
+  animation-duration: 10s;
+  animation-delay: 1s;
+  color: #192965;
+}
+@keyframes h3
+{
+  0%   {color: #f0efef;}
+  25%  {color: #192965;}
+  50%  {color: #f0efef;}
+  75%  {color: #424874;}
+  100% {color: #192965;}
+
+}
+a{
+  display: inline-block;
+  text-decoration: none;
+  color: #ecfbfc;
+  border-radius: 20px;
+  width:100px;
+  background-color: #272343;
+
+}
+#technews
+{
+  text-align: center;
+  position: absolute;
+  margin-top: 60px;
+  right:220px;
+
+}
+#trend{
+  text-align: center;
+  position: absolute;
+  margin-top: 60px;
+  right:115px;
+}
+#About{
+  text-align: center;
+  position: absolute;
+  margin-top: 60px;
+  right:10px;
+}
+#video
+{
+  text-align: center;
+  position: absolute;
+  margin-top: 60px;
+  right:330px;
+}
+
+a:hover
+{
+  background-color: #ffffff;
+  color:black;
+}
+h4
+{
+  padding-top: 80px;
+  font-size: 20px;
+  font-family: 'Merienda';
+  position: relative;
+  left:20px;
+  display: block;
+
+
+}
+#back
+{
+  text-align: center;
+  position: absolute;
+  margin-top: 65px;
+  right:10px;
+}
+img
+{
+  width:300px;
+  height: 180px;
+
+  padding-right: 60px;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+p{
+  font-family: 'Alegreya', serif;
+  font-size: 23px;
+  width:950px;
+  font-weight: normal;
+  color: #005082;
+  line-height: 40px;
+  float: right;
+
+
+
+
+
+}
+h3
+{
+  padding-left: 20px;
+  font-family: 'Alegreya';
+
+}
+#at
+{
+  text-align: center;
+  border-radius: 20px;
+  height: 30px;
+  width:70px;
+  font-size: 10px;
+  background-color: black;
+  position: relative;
+  left:490px;
+
+  padding-top: 12px;
+
+
+}
+#at:hover
+{
+
+  background-color: #ffffff;
+  color:black;
+}
+hr
+{
+  border-color: #3f3f44 6PX;
+  border-bottom: none;
+  border-style:double;
+  width: 4%;
+  margin 100px auto;
+}
+.bottom-container
+{
+  width:100%;
+  height: 120px;
+  background-color: #162447;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  color: #edf4f2;
+}
+#copy
+{
+
+  margin-top: 30px;
+  margin-right:300px;
+  color: #edf4f2;
+  text-align: center;
+}
